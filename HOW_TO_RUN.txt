@@ -1,0 +1,45 @@
+========================================================
+🔥 DOCANALYSE AI — HOW TO RUN YOUR PROJECT 🔥
+========================================================
+
+Because the project was restructured to perfectly match the 
+Hackathon requirements (moving backend to `src/`), the steps 
+to run it are slightly different but very simple.
+
+YOU NEED TWO SEPARATE TERMINALS.
+
+--------------------------------------------------------
+🟢 TERMINAL 1: START THE BACKEND (API Server)
+--------------------------------------------------------
+1. Make sure you are in the root folder:
+   cd "C:\Users\Arokiya Nithish\OneDrive\Videos\doc ai"
+
+2. Activate the Python virtual environment that already
+   exists (it's currently inside the old backend folder):
+   .\backend\venv\Scripts\activate
+
+3. Start the FastAPI server using the new `src/main.py`:
+   python src\main.py
+
+   -> You should see "Application startup complete."
+   -> The API is now running at: http://localhost:8000
+
+
+--------------------------------------------------------
+🔵 TERMINAL 2: START THE FRONTEND (Web Interface)
+--------------------------------------------------------
+1. Open a BRAND NEW terminal window.
+
+2. Go into the frontend folder:
+   cd "C:\Users\Arokiya Nithish\OneDrive\Videos\doc ai\frontend"
+
+3. Start the React development server:
+   npm run dev
+
+   -> The frontend is now running at: http://localhost:5173
+
+--------------------------------------------------------
+✨ YOU ARE DONE!
+Open your web browser and go to http://localhost:5173 
+to upload documents and test the AI!
+========================================================

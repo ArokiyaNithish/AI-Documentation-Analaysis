@@ -1,0 +1,4 @@
+Requirement already satisfied: typer in .\venv\Lib\site-packages (0.9.4)
+Requirement already satisfied: click<9.0.0,>=7.1.1 in .\venv\Lib\site-packages (from typer) (8.3.2)
+Requirement already satisfied: typing-extensions>=3.7.4.3 in .\venv\Lib\site-packages (from typer) (4.15.0)
+Requirement already satisfied: colorama in .\venv\Lib\site-packages (from click<9.0.0,>=7.1.1->typer) (0.4.6)
