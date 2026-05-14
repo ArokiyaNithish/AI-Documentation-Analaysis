@@ -453,7 +453,7 @@ See [LICENSE](LICENSE) for full details.
 - Role: Full Stack AI Developer
 - 📅 Year: 2026
 - 🎓 Engineering Student
-- 💼 Domain: Python | FastAPI | React | AI Integration
+- 💼 Domain: Python | FastAPI | React | AI Integration | Rag |Agentic Ai
 
 **Contacts**
 - GitHub: [@ArokiyaNithish](https://github.com/ArokiyaNithish)
@@ -468,23 +468,6 @@ See [LICENSE](LICENSE) for full details.
 - 🤖 **Google DeepMind & AI Studio** — For providing cutting-edge models.
 
 ---
-
-<div align="center">
-
-For support, email arokiyanithishj@gmail.com or open an issue on GitHub.
-
-### 🌟 If this project helped you — please give it a ⭐ Star on GitHub!
-
-**#Python #FastAPI #React #AI #Hackathon #OpenSource #GUVI2026**
-
-*Made with ❤️ by Arokiya Nithish*
-
-*© 2026 — Arokiya Nithish J*
-
-</div>
-
----
-
 ## 📜 NOTICE
 
 ```
@@ -543,3 +526,22 @@ Changes include: <brief description of changes>"
 
 END OF NOTICE
 ```
+
+---
+<div align="center">
+
+For support, email arokiyanithishj@gmail.com or open an issue on GitHub.
+
+### 🌟 If this project helped you — please give it a ⭐ Star on GitHub!
+
+**#Python #FastAPI #React #AI #Hackathon #OpenSource #GUVI2026**
+
+*Made with ❤️ by Arokiya Nithish*
+
+*© 2026 — Arokiya Nithish J*
+
+</div>
+
+
+
+
